@@ -1,0 +1,208 @@
+#page{
+    margin-left: auto;
+    margin-right: auto;
+    background-color: white;
+    width:100%
+}
+ /* #header{
+    clear: both;
+    background-color: black;
+    text-align: center;
+    padding: 10px;
+   
+    
+    
+} */
+.white{
+    color: white;
+}
+#nav{
+     clear: both;
+    background-color:  rgb(34, 36, 39);
+    text-align: center;
+    
+    padding: 5px;   
+    color: rgb(146, 156, 170);
+    font-size: 24pt;
+    
+    
+}
+@font-face {
+    font-family: "PT Sans";
+    src: url(PTN57F.ttf) format("truetype");
+}
+.ptsans { 
+    font-family: "PT Sans", Verdana, Tahoma;
+}
+}
+
+#body{
+
+    clear: both;
+    margin-right: 10%;
+    margin-left: 10%;
+    background-color: red;
+    text-align: center;
+    padding: 10px;
+    color: white;
+    font-family: "PT Sans", Verdana, Tahoma;
+
+
+
+}
+.overimg{
+    background-color: rgb(202, 203, 204, 0.425);
+}
+.button{
+    background-color: rgb(34, 36, 39);
+    border: none;
+    color: white;
+    padding: 10px 16px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    font-family: "PT Sans", Verdana, Tahoma
+}
+.hide{
+    display: none;
+}
+.nav{
+background-color: teal;
+}
+.active{
+    background-color: lightslategray;
+    color: goldenrod;
+}
+.menubutton{
+    background-color: rgb(34, 36, 39);
+    padding: 10px;
+    width: 25%;
+    float: right;
+    font-family: "PT Sans", Verdana, Tahoma;
+    color: orangered;
+}
+
+
+#footer{
+    clear: both;
+    background-color:  rgb(34, 36, 39);
+    text-align: left;
+    padding: 10px;
+    
+    color: white;
+}
+img.align-left{
+    float: left;
+    
+    
+ 
+}
+img.align-right{
+    float: right;
+     
+}
+.align-right{
+    float: right;
+}
+.left-text{
+    text-align: left;
+}
+#statement{
+    
+    clear: both;
+    padding: 10px;
+    background-color:  rgb(59, 71, 240);
+    
+    color: white;
+
+}
+.completecenter{
+    text-align: center;
+    
+    clear:both;
+    background-color:  rgb(59, 71, 240);
+
+}
+/* #rightcontent{
+    text-align:center;
+    background-color:  rgb(59, 71, 240);
+    float:left;
+    height: 53%;
+    width: 55%;
+}
+#leftcontent{
+    background-color: rgb(59, 71, 240);
+    float:left;
+    
+    width:45%;
+} */
+#mid{
+    background-image: url("libertybkgrnd.jpg"); 
+    background-size: 100% 100%;
+    font-size: 36pt;
+    height: 100%;
+    text-align: center;
+    clear: both;
+    padding: 5px;   
+    color: rgb(146, 156, 170);
+    font-size: 24pt;
+    
+}
+
+    
+.bigtext{
+    font-size: 35pt;
+}
+.statementtext{
+    font-size: 24pt;
+    clear: both;
+}
+.explain{
+    font-size: 28pt;
+}
+table{
+    
+    color: white;
+    padding: 5px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: collapse;
+    font-size: 18pt;
+    
+}
+th, td{
+    border: 1px white solid;
+    
+    
+
+}
+form{
+    background-color: lightblue;
+    padding: 10px;
+    color: black;
+    font-size: 15pt;
+    clear: both;
+
+
+}
+#body_text{
+    color: white;
+    font-size: 18pt;
+    text-align: left;
+}
+a{
+    color: white;
+    text-decoration: underline; 
+}
+a:visited{
+    color: rgb(251, 255, 0);
+
+}
+a:hover{
+    color: red;
+}
+ .booklist{
+     text-align: left;
+     font-size: 24pt;
+ }
