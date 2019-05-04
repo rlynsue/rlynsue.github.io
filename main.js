@@ -46,7 +46,7 @@ $(document).ready(() => {
        $(function(){
         var currentSlide = 1
         setInterval(function() {
-            $('.slides').animate({marginTop: '-=46%'}, 1000, function()
+            $('.slides').animate({marginTop: '-=86.8%'}, 1000, function()
             {currentSlide++;
             if (currentSlide === $('.slide').length) {
                currentSlide = 1;
