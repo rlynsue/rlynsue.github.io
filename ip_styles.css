@@ -1,0 +1,349 @@
+#page{
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(34, 36, 39);
+    width:100%
+}
+ /* #header{
+    clear: both;
+    background-color: black;
+    text-align: center;
+    padding: 10px;
+   
+    
+    
+} */
+.white{
+    color: white;
+}
+#nav{
+     clear: both;
+    background-color: rgb(34, 36, 39);
+    text-align: center;
+    
+    padding: 5px;   
+    color: rgb(146, 156, 170);
+    font-size: 24pt;
+    
+    
+}
+@font-face {
+    font-family: "PT Sans";
+    src: url(PTN57F.ttf) format("truetype");
+}
+.ptsans { 
+    font-family: "PT Sans", Verdana, Tahoma;
+}
+
+
+#body{
+
+    clear: both;
+    margin-right: 10%;
+    margin-left: 10%;
+    background-color: red;
+    text-align: center;
+    padding: 10px;
+    color: white;
+    font-family: "PT Sans", Verdana, Tahoma;
+
+
+
+}
+.overimg{
+    background-color: rgb(202, 203, 204, 0.425);
+}
+.button1{
+    background-color: rgb(34, 36, 39);
+    border: none;
+    color: white;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom:10px;
+    padding-right: 16px;
+    padding-left: 16px;
+    font-size: 22px; 
+    font-family: "PT Sans", Verdana, Tahoma;
+    height: 25%;
+    text-decoration: none;
+}
+.button2{
+    background-color: rgb(34, 36, 39);
+    border: none;
+    color: white;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom:10px;
+    padding-right: 16px;
+    padding-left: 16px;
+    font-size: 22px; 
+    font-family: "PT Sans", Verdana, Tahoma;
+    height: 25%;
+    text-decoration: none;
+}
+.button3{
+    background-color: rgb(34, 36, 39);
+    border: none;
+    color: white;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom:10px;
+    padding-right: 16px;
+    padding-left: 16px;
+    font-size: 22px; 
+    font-family: "PT Sans", Verdana, Tahoma;
+    height: 25%;
+    text-decoration: none;
+}
+.button4{
+    background-color: rgb(34, 36, 39);
+    border: none;
+    color: white;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom:10px;
+    padding-right: 16px;
+    padding-left: 16px;
+    font-size: 22px; 
+    font-family: "PT Sans", Verdana, Tahoma;
+    height: 25%;
+    text-decoration: none;
+}
+.buttonstartover{
+    background-color: rgb(34, 36, 39);
+    border: none;
+    color: white;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom:10px;
+    padding-right: 16px;
+    padding-left: 16px;
+    font-size: 144px; 
+    font-family: "PT Sans", Verdana, Tahoma;
+    height: 25%;
+    text-decoration: none;
+}
+.lookslikeabutton{
+    background-color: rgb(34, 36, 39);
+    border: none;
+    color: white;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom:10px;
+    padding-right: 16px;
+    padding-left: 16px;
+    font-size: 36px; 
+    font-family: "PT Sans", Verdana, Tahoma;
+    height: 25%;
+    text-decoration: none;
+}
+.hide{
+    display: none;
+}
+.nav{
+background-color: rgb(34, 36, 39);
+text-decoration: none;
+height: 39%;
+
+
+}
+.active{
+    background-color: gray;
+    color: lightblue;
+}
+#menubutton{
+    background-color: rgb(34, 36, 39);
+    width: 25%;
+    font-family: "PT Sans", Verdana, Tahoma;  
+    display: inline-block;
+    color: orangered;
+}
+.menubutton{
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+
+#footer{
+    clear: both;
+    background-color:  rgb(34, 36, 39);
+    text-align: left;
+    padding: 10px;
+    font-family: "PT Sans", Verdana, Tahoma;
+    color: white;
+}
+img.align-left{
+    float: left;
+    
+    
+ 
+}
+img.align-right{
+    float: right;
+     
+}
+.align-right{
+    float: right;
+}
+.left-text{
+    text-align: left;
+}
+#statement{
+    
+    clear: both;
+    padding: 10px;
+    background-color:  rgb(34, 36, 39);;
+    
+    color: white;
+
+}
+.completecenter{
+    text-align: center;
+    
+    clear:both;
+    background-color:  rgb(59, 71, 240);
+
+}
+#rightcontent{
+    text-align:center;
+    background-color:  rgb(59, 71, 240);
+    float:left;
+    height: 53%;
+    width: 55%;
+}
+#leftcontent{
+    background-color: rgb(59, 71, 240);
+    float:left;
+    
+    width:45%;
+} 
+#mid4home{
+    background-image: url("libertybkgrnd.jpg"); 
+    background-size: 100% 100%;
+    font-size: 36pt;
+    height: 100%;
+    text-align: center;
+    clear: both;
+    padding: 5px;   
+    color: rgb(146, 156, 170);
+    font-size: 24pt;
+    
+}
+#mid4pics{
+    background-image: url("camera2.jpg"); 
+    background-size: 100% 100%;
+    font-size: 36pt;
+    height: 75%;
+    text-align: center;
+    clear: both;
+    padding: 5px;   
+    color: rgb(146, 156, 170);
+    font-size: 24pt;
+    
+}
+#mid4vids{
+    background-image: url("camera.jpg"); 
+    background-size: 100% 100%;
+    font-size: 36pt;
+    height: 75%;
+    text-align: center;
+    clear: both;
+    padding: 5px;   
+    color: rgb(146, 156, 170);
+    font-size: 24pt;
+    
+}
+#mid4feed{
+    background-image: url("thought.jpg"); 
+    background-size: 100% 100%;
+    font-size: 36pt;
+    height: 75%;
+    text-align: center;
+    clear: both;
+    padding: 5px;   
+    color: rgb(146, 156, 170);
+    font-size: 24pt;
+    
+}
+
+    
+.bigtext{
+    font-size: 35pt;
+}
+.statementtext{
+    font-size: 24pt;
+    clear: both;
+}
+.explain{
+    font-size: 28pt;
+}
+table{
+    
+    color: white;
+    padding: 5px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: collapse;
+    font-size: 18pt;
+    
+}
+th, td{
+    border: 1px white solid;
+    
+    
+
+}
+form{
+    background-color: lightblue;
+    padding: 10px;
+    color: black;
+    font-size: 15pt;
+    clear: both;
+
+
+}
+#body_text{
+    color: white;
+    font-size: 18pt;
+    text-align: left;
+}
+a{
+    color: white;
+    text-decoration: underline; 
+}
+a:visited{
+    color: rgb(251, 255, 0);
+
+}
+a:hover{
+    color: red;
+}
+ .booklist{
+     text-align: left;
+     font-size: 24pt;
+ }
+ #slider{
+     width: 100%;
+     height: 90%;
+     overflow: hidden;
+ }
+.slides{
+     
+     width: 100%;
+     height: 100%;
+     margin-top: 0%;
+     padding: 0;
+     position: relative;
+ }
+ .slide{
+     float: left;
+     list-style-type: none;
+     width: 100%;
+     height: 100%;
+     position:relative;
+ }
+ .center{
+     text-align: center;
+ }
+ 
