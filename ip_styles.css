@@ -2,7 +2,7 @@
     margin-left: auto;
     margin-right: auto;
     background-color: rgb(34, 36, 39);
-    width:100%
+    width:100%;
 }
  /* #header{
     clear: both;
@@ -96,6 +96,20 @@
     text-decoration: none;
 }
 .button4{
+    background-color: rgb(34, 36, 39);
+    border: none;
+    color: white;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom:10px;
+    padding-right: 16px;
+    padding-left: 16px;
+    font-size: 22px; 
+    font-family: "PT Sans", Verdana, Tahoma;
+    height: 25%;
+    text-decoration: none;
+}
+.button5{
     background-color: rgb(34, 36, 39);
     border: none;
     color: white;
@@ -255,6 +269,18 @@ img.align-right{
 }
 #mid4feed{
     background-image: url("thought.jpg"); 
+    background-size: 100% 100%;
+    font-size: 36pt;
+    height: 75%;
+    text-align: center;
+    clear: both;
+    padding: 5px;   
+    color: rgb(146, 156, 170);
+    font-size: 24pt;
+    
+}
+#mid4banana{
+    background-image: url("bananas.jpg"); 
     background-size: 100% 100%;
     font-size: 36pt;
     height: 75%;
