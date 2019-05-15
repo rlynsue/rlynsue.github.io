@@ -38,6 +38,13 @@ $(document).ready(() => {
        $('.button4').on('mouseleave', () => {
            $('.button4').removeClass('active')
        });
+     $('.button5').on('mouseenter', () => {
+        $('.button5').addClass('active')
+       });
+       $('.button5').on('mouseleave', () => {
+           $('.button5').removeClass('active')
+       });
+       
        
        
     
